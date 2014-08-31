@@ -122,6 +122,7 @@ static void adccallback(ADCDriver *adcp, adcsample_t *buffer, size_t n) {
 
 /*
  * ADC conversion group.
+ * 123
  * Mode:        Continuous, 16 samples of 8 channels, SW triggered.
  * Channels:    IN11, IN12, IN11, IN12, IN11, IN12, Sensor, VRef.
  */
